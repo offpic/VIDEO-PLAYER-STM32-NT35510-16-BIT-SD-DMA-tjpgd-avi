@@ -1,3 +1,5 @@
+ffmpeg -i inputvideo.mp4 -c:v mjpeg -s 320x240 -r 25 -q 15 noaudio1.avi
+
 ![Screenshot_1](https://github.com/user-attachments/assets/7d7b8990-d150-41e9-9717-de28bafb850f)
 
 ffmpeg -i inputvideo.mp4 -c:v mjpeg -s 800x480 -r 5 -q 15 noaudio2.avi
