@@ -16,7 +16,7 @@ Code 60% from VADROV https://github.com/vadrov/stm32f4_fast_optimized_avi_player
 
 to do it:
 
-1- use stmf407 with fsmc + sdio dma cmsis
+1- use stm32f407 with fsmc + sdio dma cmsis
 
 ************************************************************
 
